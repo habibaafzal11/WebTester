@@ -158,12 +158,3 @@ Extension shows stats + opens report in new tab
 - Test runs take 30–90 seconds depending on page complexity
 - Reports auto-save — reopen from the extension anytime
 
----
-
-## 🔮 Coming Soon (Phase 2)
-
-- [ ] Test history & comparison
-- [ ] Export report as PDF
-- [ ] Schedule recurring tests
-- [ ] CI/CD integration (GitHub Actions)
-- [ ] Screenshot diffs between runs
